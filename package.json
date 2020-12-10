@@ -1,0 +1,38 @@
+{
+  "name": "OSU-VFS-DBVF-2020-2021",
+  "version": "1.0.1",
+  "description": "Web UI for OSU FVS-DBVF",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.1.2",
+    "@emotion/styled": "^11.0.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "query-string": "^6.13.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-input-switch": "^2.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "reactjs-popup": "^2.0.4",
+    "recharts": "^1.8.5"
+  },
+  "browserslist": {
+    "production": [],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

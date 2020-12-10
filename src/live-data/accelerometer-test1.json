@@ -1,0 +1,13 @@
+{
+  "data" : [
+    { "Time": 0,
+      "Xaccel": 400,
+      "Yaccel": 2400,
+      "Zaccel": 2400 },
+
+    { "Time": 1,
+      "Xaccel": 500,
+      "Yaccel": 2200,
+      "Zaccel": 2100 }
+    ]
+}
